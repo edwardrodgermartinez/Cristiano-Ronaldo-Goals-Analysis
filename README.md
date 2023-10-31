@@ -11,6 +11,8 @@ The goal of this project is to use an existing dataset, transform it using web s
 
 Link to presentation: 
 
+https://www.canva.com/design/DAFyx6Ng-YM/gHdSx_pIhiEiUBEPQvIgaw/edit?utm_content=DAFyx6Ng-YM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ### Requirements and libraries ###
 
 Code was written in Python using Jupyter Notebook and Visual Studio Code. The dataset was downloaded from Kaggle. Libraries used:
